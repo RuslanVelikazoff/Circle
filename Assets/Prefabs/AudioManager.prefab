@@ -46,17 +46,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sounds:
   - name: Theme
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: f1b3eb865e0024dad9909b596af267b9, type: 3}
     volume: 0
     loop: 1
     source: {fileID: 0}
   - name: Click
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: b2fd36e7e02b34dc583f290033b28d04, type: 3}
     volume: 0
     loop: 0
     source: {fileID: 0}
   - name: Lose
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: 71d834c0a92dc4758b43a929bb935ac6, type: 3}
     volume: 0
     loop: 0
     source: {fileID: 0}
